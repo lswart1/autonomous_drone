@@ -1,5 +1,6 @@
 # autonomous_drone
 Under Development
+
 DIY Autonomous drone utilizing an ESP32 for control over WiFi. Image processing and line following is implemented on the base station and roll, pitch, yaw and throttle commands are send to the ESP32. The ESP32 hosts a webserver were joystick inputs are taken and send over a custom SBUS protocol to the Betaflight Flight Controller.
 
 
